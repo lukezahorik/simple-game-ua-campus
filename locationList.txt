@@ -1,0 +1,175 @@
+﻿placeholder
+0
+"NULL"
+"NULL"
+"NULL"
+"NULL"
+"NULL"
+"NULL"
+basic_location_logic
+items
+
+parking
+0
+"You are in the Ferguson center parking lot. To your left, a parking attendant is writing a meaningless ticket, simply because they want to ruin someone's day. To your south is the Ferguson center, to your east, Shelby."
+"To your south is the Ferguson center, to your east, Shelby."
+"NULL"
+"ferguson"
+"shelby"
+"NULL"
+basic_location_logic
+items
+
+ferguson
+0
+"You're at the Ferguson center. The smell of Panda Express, Wendys, and Auntie Annes washes over you. Nearby you hear a student loudly complaining about how their dining dollars are out, and that they have to eat at Lakeside now. To your north is parking, south is Gorgas, East is Shelby, South is Gorgas, and West is Marr's spring."
+"To your north is parking, south is Gorgas, East is Shelby, South is Gorgas, and West is Marr's spring."
+"parking"
+"gorgas"
+"shelby"
+"spring"
+basic_location_logic
+items
+
+spring
+0
+"You are at Marr's Spring. It's picturesque, with the hustle and bustle of campus suddenly gone. There is a man sitting on a bench nearby, appearing to be asleep. To your North is the parking lot, to your east, the Ferguson center, and to your south, Bidgood."
+"To your North is the parking lot, to your east, the Ferguson center, and to your south, Bidgood."
+"parking"
+"bidgood"
+"ferguson"
+"NULL"
+basic_location_logic
+items
+
+shelby
+0
+"You're at the steps of Shelby hall. As you gaze upon it's glory, you notice several engineering students walk out and furiously run to Rodgers to study. They all look broken at this point in the semester, and you feel some pity for them. To your south is Rodgers Library. To your West, the Ferguson parking lot."
+"a testing location. Short."
+"NULL"
+"rodgers"
+"NULL"
+"parking"
+basic_location_logic
+items
+
+fresh
+0
+"You're at Fresh Foods. Your nose tells you that it's steak day, although your heart knows that the steak is a lie. The line stretches halfway across the dining hall. To your North is Shelby, to your east, Rodgers, to your south is Llyod, and to your west is Gorgas."
+"a testing location. Short."
+"shelby"
+"llyod"
+"rodgers"
+"gorgas"
+basic_location_logic
+items
+
+rodgers
+0
+"You're at Rodgers library. This is where dreams come to die, and engineers come to not sleep. It's also where I'm writing this program right now. To your north is Shelby, to your south, Llyod, and to your west, Fresh Foods."
+"To your north is Shelby, to your south, Llyod, and to your west, Fresh Foods."
+"shelby"
+"llyod"
+"NULL"
+"fresh"
+basic_location_logic
+items
+
+llyod
+0
+"You're at Llyod hall. Nearby there is a pizza hut, chick fil a, and some kind of a sandwich place. There's something a little magical about being able to get pizza 100 feet from your math class. To your North is Fresh Foods, to your south, Nott, and to your west, Gorgas."
+"To your North is Fresh Foods, to your south, Nott, and to your west, Gorgas."
+"fresh"
+"nott"
+"NULL"
+"gorgas"
+basic_location_logic
+items
+
+nott
+0
+"You're at Nott hall. As in, you're NOT(t) going to graduate with honors. Or maybe even graduate at all for that matter. To your North is Llyod, to your south, Sorority row, to your west, denny chimes."
+"To your North is Llyod, to your south, Sorority row, to your west, denny chimes."
+"llyod"
+"sorority"
+"NULL"
+"denny"
+basic_location_logic
+items
+
+denny
+0
+"You're at Denny Chimes. The author of this program personally feels like Denny Chimes was built almost for the exclusive point of taking photos in front of. Regardless, it's quite the pretty building. To your north is Gorgas, to your east, Nott, to your south, Sorority Row, and to your west, Carmichael Hall"
+"To your north is Gorgas, to your east, Nott, to your south, Sorority Row, and to your west, Carmichael Hall"
+"gorgas"
+"sorority"
+"nott"
+"carmichael"
+basic_location_logic
+items
+
+carmichael
+0
+"You're at Carmichael hall. The author of this program doesn't actually know what this hall is used for. Buisness things maybe? Regardless, it's rather pretty. To your North is Bidgood, to your east, Gorgas, and to your south, Reese Phifer."
+"To your North is Bidgood, to your east, Gorgas, and to your south, Reese Phifer."
+"bidgood"
+"reese"
+"gorgas"
+"NULL"
+basic_location_logic
+items
+
+bidgood
+0
+"You're at Bidgood hall. There are buisness things going on. There's a lone engineering student sitting in front of the building. A buisness student, seeing this, walks up to him and asks him if he's lost, and needs help finding the engineering quad. To your north is Maar's Spring, to your east, Gorgas, and to your south, Carmichael."
+"To your north is Maar's Spring, to your east, Gorgas, and to your south, Carmichael."
+"spring"
+"carmichael"
+"gorgas"
+"NULL"
+basic_location_logic
+items
+
+reese
+0
+"You're at Reese Phifer. You dare not go inside, lest you get lost in it's winding hallways that don't seem to make any sense. To your north is Carmichael, to your east, Sorority Row, and to your south, Bryant Denny."
+"To your north is Carmichael, to your east, Sorority Row, and to your south, Bryant Denny."
+"carmichael"
+"bryant"
+"sorority"
+"NULL"
+basic_location_logic
+items
+
+sorority
+0
+"You're at sorority row. This location follows the BASIC location logic for a very good reason. To your north is Denny Chimes, to your west, Bryant Denny."
+"To your north is Denny Chimes, to your west, Bryant Denny."
+"denny"
+"NULL"
+"NULL"
+"bryant"
+basic_location_logic
+items
+
+bryant
+0
+"You're at Bryant Denny. People are pretty obsessed with this place, and during the fall, it typically fills up once a week with rednecks. It's usually a pretty good time, as long as you don't get arreested. To your North is Reese Phifer, to your east, Sorority Row."
+"To your North is Reese Phifer, to your east, Sorority Row."
+"reese"
+"NULL"
+"sorority"
+"NULL"
+basic_location_logic
+items
+
+gorgas
+0
+"You are standing at the front steps of Gorgas Library. The building towers in front of you, giving you a sense of awe, and making you realize you have no hope of graduating. To your south is Denny Chimes, to your East, Llyod, to the West, Bidgood hall, and to your North, the glorious Ferguson center."
+"To your south is Denny Chimes, to your East, Llyod, to the West, Bidgood hall, and to your North, the glorious Ferguson center."
+"ferguson"
+"denny"
+"llyod"
+"bidgood"
+basic_location_logic
+items
